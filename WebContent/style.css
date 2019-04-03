@@ -1,0 +1,26 @@
+#centre{
+	display:flex;
+	justify-content: center;
+	
+}
+#date{
+	display: flex;
+	justify-content: center;
+	margin-top:-40px;
+}
+#form{
+	display: flex;
+	justify-content: center;
+}
+input[type="submit"]{
+	margin-left: 100px;
+}
+#log{
+	margin-left:3px;
+}
+input[type='text']{
+	margin-left: 70px;
+}
+input[type='password']{
+	margin-left: 40px;
+}
